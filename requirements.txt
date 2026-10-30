@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+openpyxl
+pyarrow
+matplotlib
+av
